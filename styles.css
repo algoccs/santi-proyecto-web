@@ -1,0 +1,148 @@
+.titulo {
+    text-align: center;
+    font-family: black ops one;
+    color: purple;
+    border: solid blue;
+    border-radius: 15px;
+    background-color: aqua;
+}
+
+.h2 {
+    text-align: center;
+    font-family: bungee;
+    color: green;
+    border: solid red;
+    border-radius: 15px;
+    background-color: orange;
+}
+
+.parrafo {
+    text-align: center;
+    font-family: bungee;
+}
+
+.titulos {
+    text-align: center;
+    font-family: bungee;
+    color: green;
+    border: solid red;
+    border-radius: 15px;
+    background-color: orange;
+}
+
+.aceattourneyref {
+    text-align: center;
+    color: green;
+    background-color: black;
+    font-family: black ops one;
+}
+
+body {
+    background-color:cadetblue;
+}
+
+footer {
+    border: solid rgb(4, 73, 4);
+    border-radius: 4px;
+    background-image: linear-gradient(to top,blue, green);
+    font-family: luckiest guy;
+}
+
+ul {
+    background-image: linear-gradient(to right, blue, lightgreen);
+    color: rgb(206, 77, 77);
+    font-family: black ops one;
+}
+
+.especial {
+    font-family: luckiest guy;
+    color:rgb(19, 105, 185)
+}
+
+.especial:hover{
+    transform: scale(1.02);
+    transition: 2.5s
+}
+
+.titulos:hover{
+    transform: scale(1.2);
+}
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"
+</head>
+<body>
+    <header>
+        <h1 class="titulo">🤠historia de ink game (roblox)🤠</h1>
+        <nav>
+           
+        </nav>
+    </header>
+
+    <main>
+    <p class="parrafo">en esta pagina te mostraremos todo la historia de ink game el famoso juego de roblox del juego del calamar gracias a mi por mi ultimo proyecto de algoritcmics</p>
+    <h2 class="h2">espero lo disfruten :)</h2>
+    <h2 class="titulos">el inicio de una era</h2>
+    <p class="especial">era un dia tranquilo de el 31 de diciembre de 2024... roblox tenia un monton de juegos, para esos tiempos no habia juegos de brainrots, si no que la mayoria de juegos eran copias del juego del calamar hasta que... nacio una nueva leyenda... ink game</p>
+
+    <p class="parrafo">al inicio nadie le importo el juego, lo jugaban algunas personas llegando hasta 30k de personas al mismo tiempo hasta que</p>
+
+    <h2 class="titulos">momento peak</h2>
+    <p class="aceattourneyref">fecha: 2025</p>
+    <p class="aceattourneyref">hora: ???</p>
+    <p class="aceattourneyref">dia: ???</p>
+    <p class="parrafo">momento en el que el juego literalmente... exploto, no alcanzo ni 100.000, ni 300.000, alcanzo 810,470 de jugadores al mismo tiempo</p>
+
+    <p class="parrafo">todo iba bien para el juego, comparado con las otras copias del juego del calamar arrazaba en las competencias llegando un monton de actualizaciones, gracias a la segunda y tercera temporada del juego del calamar tambien conocido como squid game</p>
+
+    <h2 class="titulos">actualizaciones</h2>
+    <p class="parrafo">hubieron muchisimas actualizaciones, unas muy amadas y otras muy odiadas como</p>
+    <ul>
+        <li>saltar la cuerda: una un poco odiada por culpa de lo dificil que era al inicio... era tan, pero TAN dificil que apenas tocaba todo el mundo empezaba a rezar XD</li>
+        <li>la actualizacion de los guardias: otra muy odiada porque no salio como lo esperado</li>
+        <li>sky squid game: es de las mas amadas por los jugadores, porque justo la sacaron un tiempo despues de que se vio sky squid game en la serie, sinceramente es epicamente goty</li>
+    </ul>
+        <p class="parrafo">todo parecia algo super eterno, parecia que los jugadores nunca se hirian del juego hasta que</p>
+        <h2 class="titulos">caida del juego</h2>
+        <p class="parrafo">todos los jugadores fueron desapareciendo por culpa de las actualizaciones malas... no cayo porque necesitaba caer, si no porque no estaban preparados para tanto existo... al final su peak quedo recordado por los mas veteranos que estuvieron unidos al proyecto antes de que cayera</p>
+        <p class="parrafo">ahora los unicos que juegan es por:</p>
+        <ul>
+            <li>no tienen nada mas que hacer</li>
+            <li>compraron algo dentro del juego</li>
+            <li>son fan del juego</li>
+            <li>o juegan con amigos</li>
+        </ul>
+    
+        <h2 class="titulos">gracias :)</h2>
+        <p class="especial">gracias por acompañarme por un recuerdo muy hermoso de un juego ya olvidado espero que te haya gustado visitar la pagina :)</p>
+
+        <h1 class="titulos">galeria (final)</h1>
+
+        <img src="https://tr.rbxcdn.com/180DAY-55f9d7bbaa4ba7fd98ea3304012e89aa/768/432/Image/Webp/noFilter">
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoeIssFxfngaBBy7nmb4KBHxWJCEwgYmyieowuqEeKKA&s=10">
+        
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgabWjKGuwQye9cPKgfSQnVBBQ8YuJaLTZB438sSYDg&s=10">
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCV3fgyuV9PbajJVOtDMkG2W83oz_Xp4hHzDF_1_QX5g&s=10">
+    </main>
+    <footer>
+       <h2>mi nombre es: 😎santiR4😎</h2>
+    </footer>
+</body>
+</html>
